@@ -1,35 +1,41 @@
 # Xunda Documentation
 
-This repository contains user manuals, setup guides, and technical documentation for Xunda products, including 3D printers, plastic recycling kits, and accessories.
+This repository contains user manuals, assembly guides, safety information, troubleshooting resources, and version changelogs for Xunda products.
 
 ---
 
 ## 📂 Contents
 
-- **User Manuals**: Step-by-step instructions for setting up and operating Xunda products.
-- **Safety Guidelines**: Best practices for safe usage.
-- **Maintenance and Troubleshooting**: Solutions for common issues and maintenance tips.
+- `/Xunda-3D-Printer/` – Documentation for Xunda 3D printers.
+- `/XundaPET/` – Documentation for the plastic recycling kit.
+- `/templates/` – Standard templates for creating new manuals and guides.
+- `/images/` – Shared assets like logos and diagrams.
 
 ---
 
-## 📥 Getting Started
+## 📥 How to Use
 
-1. Browse the `docs/` folder to find the relevant manual for your Xunda product.
-2. Download the files as needed.
-3. Follow the setup guides for assembly, operation, and maintenance.
+Browse the folders by product and download the relevant documents as needed.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to improve and expand our documentation.  
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
 ## 📄 License
 
-All documentation is shared under the [MIT License](../LICENSE), unless otherwise noted.
+All content is licensed under the [MIT License](LICENSE), unless otherwise noted.
 
 ---
 
 ## 📬 Contact
 
-For questions, feedback, or support:
-- 🌐 Website: [https://xunda.tech](https://xunda.tech)
+For feedback or support:
+- 🌐 Website: [https://xundatech.techthings.it](https://xundatech.techthings.it)
 - 📧 Email: [techxunda@gmail.com](mailto:techxunda@gmail.com)
 
 Proudly built in **Uganda**.
