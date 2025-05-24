@@ -8,7 +8,6 @@ This repository contains user manuals, assembly guides, safety information, trou
 
 - `/Xunda-3D-Printer/` – Documentation for Xunda 3D printers.
 - `/XundaPET/` – Documentation for the plastic recycling kit.
-- `/templates/` – Standard templates for creating new manuals and guides.
 - `/images/` – Shared assets like logos and diagrams.
 
 ---
